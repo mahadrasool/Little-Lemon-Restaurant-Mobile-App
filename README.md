@@ -1,1 +1,1 @@
-# Little-Lemon-Restaurant-Mobile-App
+# Little Lemon Food Ordering App
